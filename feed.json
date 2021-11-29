@@ -5,6 +5,16 @@
     "home_page_url": "https://xbbb21.github.io",
     "items": [
         {
+            "id": "https://xbbb21.github.io/2021/11/29/shopping/",
+            "url": "https://xbbb21.github.io/2021/11/29/shopping/",
+            "title": "Shopping",
+            "date_published": "2021-11-29T10:13:55.000Z",
+            "content_html": "<p>今天来家门口的大商场 shopping 一下～～～</p>\n<p>商场里面人好多，东西好精致，价格也好贵 555</p>\n<p>最后拍了张照片纪念一下逛大商场的经历好了，可恶啊，我要是有钱多好。</p>\n<p><img data-src=\"./shopping/1.webp\" alt=\"1.webp\"></p>\n",
+            "tags": [
+                "Diary"
+            ]
+        },
+        {
             "id": "https://xbbb21.github.io/2021/11/29/hello-world/",
             "url": "https://xbbb21.github.io/2021/11/29/hello-world/",
             "title": "Hello World",
